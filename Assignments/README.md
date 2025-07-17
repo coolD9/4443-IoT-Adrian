@@ -5,3 +5,4 @@
 | :-: | ------------ | ----------------------- |
 |  1  | [A01](./A01) | Setting Up GitHub Repo  |
 |  2  | [A02](./A02) | Submiting GitHub Repo   |
+|  3  | [A03](./A03) | README Mastery & Project Documentation |
